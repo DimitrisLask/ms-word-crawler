@@ -1,0 +1,10 @@
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Delos Links.exe.config
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Delos Links.exe
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Delos Links.pdb
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Delos Links.exe
+C:\Users\Vortex\Documents\Visual Studio 2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Delos Links.pdb
